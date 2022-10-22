@@ -54,18 +54,18 @@ jobs:
       - run: echo MOVED - QA
         
   deploy-stage:
-    name: Mover para STAGE
+    name: STAGE
     needs: [testing-qa]
     runs-on: ubuntu-latest
     steps:
-      - run: echo MOVED - PRE-PRODUCAO
+      - run: echo HYPERCARE
       
   deploy-production:
-    name: Lançar software em Produção
+    name: PRODUCTION
     needs: [deploy-stage]
     runs-on: ubuntu-latest
     steps:
-      - run: echo LANCAMENTO DO SOFTWARE
+      - run: echo GO-LIVE
 
   #test_schedule:
   build_int_test:
