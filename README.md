@@ -23,3 +23,5 @@ References and studies
 // Project with cypress report report >> https://github.com/carloseduardo1984/cy_actions
 
 // Project with Jest >> https://github.com/carloseduardo1984/teste-unitario-jest
+
+// Good article >>> https://www.softwaretestingmaterial.com/qaops/ 
