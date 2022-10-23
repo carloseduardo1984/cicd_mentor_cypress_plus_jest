@@ -15,7 +15,11 @@ RUNNING
 
 * AUTOMATION  | REMOTE RUN * > npm run test
 
+References and studies
+----------------------------------------------------------------------------------------
 
 // Homework > multiple-cucumber-html-reporter => https://www.npmjs.com/*
 
-// With cypress report report >> https://github.com/carloseduardo1984/cy_actions
+// Project with cypress report report >> https://github.com/carloseduardo1984/cy_actions
+
+// Project with Jest >> https://github.com/carloseduardo1984/teste-unitario-jest
