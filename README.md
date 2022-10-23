@@ -24,4 +24,9 @@ References and studies
 
 // Project with Jest >> https://github.com/carloseduardo1984/teste-unitario-jest
 
-// Good article >>> https://www.softwaretestingmaterial.com/qaops/ 
+// Good articles 
+>>> https://www.softwaretestingmaterial.com/qaops/ 
+>>> https://www.applause.com/blog/software-testing-life-cycle-stlc-phases
+
+
+![testing-process-1024x461](https://user-images.githubusercontent.com/33332202/197391500-d01fbb3a-f1a9-4f1e-8d7d-1d495aa9b4ca.png)
