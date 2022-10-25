@@ -16,7 +16,7 @@ RUNNING
 * AUTOMATION  | REMOTE RUN * > npm run test
 
 References and studies
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 // Homework > multiple-cucumber-html-reporter => https://www.npmjs.com/*
 
